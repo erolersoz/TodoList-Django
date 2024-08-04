@@ -1,3 +1,7 @@
+We can create a todo list by logging in from the admin panel on our website and add categories and tags.
+
+
+
 ## Usage
 
 **Preferably use `virtualenv`:**
