@@ -1,5 +1,4 @@
-This project was done without using a database, it was one of my first projects, the database was used as python files.
-
+We can create a todo list by logging in from the admin panel on our website and add categories and tags.
 
 
 ## Usage
