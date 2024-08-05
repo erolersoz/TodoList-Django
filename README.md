@@ -7,7 +7,7 @@ We can create a todo list by logging in from the admin panel on our website and 
 
 ```bash
 # Create a virtual environment
-virtualenv django-firm_vnv
+virtualenv todo_vnv
 
 # Activate the virtual environment
 todo_vnv\Scripts\activate
