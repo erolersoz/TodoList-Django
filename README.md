@@ -25,3 +25,5 @@ py manage.py runserver
 Can be edited locally with 127.0.0.1/admin
 
 ![Ekran görüntüsü 2024-08-04 233420](https://github.com/user-attachments/assets/7318b8d6-7c92-42a4-b81a-341b48bcf9c6)
+![Ekran görüntüsü 2024-08-07 134316](https://github.com/user-attachments/assets/71157cdb-76fe-42db-9927-8b16fb94e55c)
+
